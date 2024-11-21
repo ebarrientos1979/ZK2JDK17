@@ -1,0 +1,18 @@
+<zk>
+    <div>
+        <window apply="pe.edu.newhorizons.composer.PieBasicComposer">
+            <charts id="chart" type="pie" title="Egg Yolk Composition"/>
+        </window>
+    </div>
+    <div>
+        <window apply="pe.edu.newhorizons.composer.BarBasicComposer">
+            <charts id="chart" type="bar"
+                    title="Historic World Population by Region"/>
+        </window>
+    </div>
+    <div>
+        <window apply="pe.edu.newhorizons.composer.LineBasicComposer">
+            <charts id="chart" type="line" title="U.S Solar Employment Growth" />
+        </window>
+    </div>
+</zk>
